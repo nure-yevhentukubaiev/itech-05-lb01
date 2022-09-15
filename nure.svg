@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400mm"
+   height="200mm"
+   viewBox="0 0 400 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="nure.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.44244168"
+     inkscape:cx="821.57721"
+     inkscape:cy="298.3444"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="-114.76055,99.510192"
+       orientation="0,-1"
+       id="guide500"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="100.13581,99.150312"
+       orientation="1,0"
+       id="guide502"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="693.63509"
+       y="128.8602"
+       width="782.594"
+       height="346.35881"
+       id="rect1709" />
+    <rect
+       x="751.08171"
+       y="156.44255"
+       width="665.87531"
+       height="430.50763"
+       id="rect1703" />
+    <rect
+       x="734.55629"
+       y="122.01725"
+       width="720.16789"
+       height="515.19692"
+       id="rect1273" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;stroke:#00465f;stroke-width:19.9318;stroke-linecap:round;stroke-miterlimit:3.2;stroke-opacity:1"
+       id="path234"
+       ry="63.92482"
+       rx="64.939766"
+       cy="100.76098"
+       cx="99.586548" />
+    <path
+       style="fill:none;stroke:#00465f;stroke-width:7.4086;stroke-linecap:round;stroke-miterlimit:3.2;stroke-opacity:1"
+       d="M 160.53042,123.48819 81.490036,123.7021 105.45756,86.180527 v 0 l 27.55494,0.364672 c 12.43779,1.184048 17.11867,18.942551 -0.33128,21.484441 v 0 l -27.43541,0.21322 v 0 L 75.980178,73.54522 40.648273,74.036639"
+       id="path1121"
+       sodipodi:nodetypes="ccccccccccc" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1271"
+       style="font-size:58.6667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect1273);fill:none;stroke:none;stroke-width:28.001;stroke-linecap:round;stroke-miterlimit:3.2;stroke-opacity:1"><tspan
+         x="734.55664"
+         y="174.86187"
+         id="tspan2318">NY</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1701"
+       style="fill:none;stroke-linecap:round;stroke-miterlimit:3.2;font-size:58.66666667px;-inkscape-font-specification:'Liberation Sans';font-family:'Liberation Sans';stroke-width:28.001;stroke:#00465f;stroke-opacity:1;white-space:pre;shape-inside:url(#rect1703)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,2.0403089,26.531274)"
+       id="text1707"
+       style="font-size:266.667px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';white-space:pre;shape-inside:url(#rect1709);fill:#00465f;fill-opacity:1;stroke:#00465f;stroke-width:9.10488;stroke-linecap:round;stroke-miterlimit:3.2;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="693.63477"
+         y="369.06085"
+         id="tspan2322"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Liberation Sans Bold';stroke-linecap:butt"
+           id="tspan2320">NURE</tspan></tspan></text>
+  </g>
+</svg>
