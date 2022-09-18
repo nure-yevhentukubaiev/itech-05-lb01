@@ -61,22 +61,41 @@
 	<hr> <!-- Форма для ввода информации о комплектующих ПК. -->
 	<section>
 		<form action="" method="get">
-			<label for="select_type">Select type</label>
-			<select id="select_type" name="Select type">
-				<option value="">GPU</option>
-				<option value="">CPU</option>
-				<option value="">Motherboard</option>
-				<option value="">Other</option>
-			</select>
-			<br>
-			<label for="keyword">Type the keyword</label>
-			<input id="keyword" type="keyword" name="Type the keyword">
-			<br>
-			<label for="check_out_of_stock">Show out of stock products</label>
-			<input id="check_out_of_stock" type="checkbox" name="Show out of stock products">
-			<br>
-			<input type="reset" value="Reset">
-			<input type="submit" value="Search">
+			<table border="0">
+				<caption><u>Голосование</u></caption>
+					<tr>
+						<td><label for="email">Email</label></td>
+						<td><input required type="email" name="email" placeholder="email@example.com"></td>
+					</tr>
+					<tr>
+						<td><label for="surname">Фамилия</label></td>
+						<td><input required name="surname" placeholder="Sidorov"></td>
+					</tr>
+					<tr>
+						<td><label for="name">Имя</label></td>
+						<td><input required name="name" placeholder="Iva"></td>
+					</tr>
+					<tr>
+						<td><label for="select_candidate">Ваш голос</label></td>
+						<td>
+							<select required name="select_candidate">
+								<option value="1">1</option>
+								<option value="2">2</option>
+								<option value="3">3</option>
+								<option value="4">4</option>
+							</select>
+						</td>
+					</tr>
+					<tr>
+						<td><label for="accept_terms_and_conditions">Я принимаю <a href="https://google.com"><b>Условия голосования</b></a></label></td>
+						<td><input required id="accept_terms_and_conditions" type="checkbox" name="accept_terms_and_conditions"></td>
+					</tr>
+					<tr>
+						<td><button type="submit" name="Голосовать!">Голосовать!</button></td>
+						<td><button type="reset" name="Очистить">Очистить</button></td>
+					</tr>
+			</table>
+
 		</form>
 	</section>
 	<hr> <!-- Задача на использование карт изображений (тегов map и area). Изображение, по клику на которое происходит переход на сайт университета, сайт кафедры или расписание ‐ в зависимости от места клика. -->
